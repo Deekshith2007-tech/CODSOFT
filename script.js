@@ -5,7 +5,7 @@ function append(value){
 function clearDisplay(){
     display.value='';
 }
-function deleteLast(){
+function deletelast(){
     display.value=display.value.slice(0,-1);
 }
 function calculate(){
